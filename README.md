@@ -4,7 +4,7 @@
 
 ## 🌟 About Me
 
-- 🔭 I have just completed a **PDF RAG App**
+- 🔭 I  am currently study in BSIT
 - 🌱 I’m learning **Python, AI, Streamlit, Git, and GitHub**
 - 🛡️ Interested in **Cybersecurity**
 - 📍 Based in **Gujranwala, Pakistan**
@@ -29,12 +29,12 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
 ## 📌 Featured Project
 
 ### [PDF RAG App](https://github.com/faizan11272/rag-pdf-app)
 
 A Streamlit app where users can upload a PDF and ask questions about it using AI.
-
 ## 🎯 Current Goals
 
 - Build more Python and AI projects
