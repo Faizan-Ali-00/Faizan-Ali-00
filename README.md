@@ -6,9 +6,9 @@
 
 - 🔭 I  am currently study in BSIT
 - 🌱 I’m learning **Python, AI, Streamlit, Git, and GitHub**
-- 🛡️ Interested in **Cybersecurity**
+- 🛡️ Interested in **Cybersecurity & AI Auotmation and Python **
 - 📍 Based in **Gujranwala, Pakistan**
-- 🎯 Goal: Build useful projects and grow as a developer
+  
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizancybersecurity)
