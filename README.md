@@ -4,7 +4,7 @@
 
 ## 🌟 About Me
 
-- 🔭 I have jus completed a **PDF RAG App**
+- 🔭 I have just completed a **PDF RAG App**
 - 🌱 I’m learning **Python, AI, Streamlit, Git, and GitHub**
 - 🛡️ Interested in **Cybersecurity**
 - 📍 Based in **Gujranwala, Pakistan**
