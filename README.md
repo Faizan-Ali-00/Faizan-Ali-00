@@ -28,18 +28,7 @@
 ![Meta](https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-## 📌 Featured Project
-
-### [PDF RAG App](https://github.com/faizan11272/rag-pdf-app)
-
-A Streamlit app where users can upload a PDF and ask questions about it using AI.
-## 🎯 Current Goals
-
-- Build more Python and AI projects
-- Learn cybersecurity fundamentals
-- Improve my GitHub profile and portfolio
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=whi
 - ## 📊 GitHub Stats
 
 ![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizan11272&show_icons=true&theme=tokyonight&hide_border=true)
