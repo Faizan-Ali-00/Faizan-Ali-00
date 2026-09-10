@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Faizan Ali 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Faizan-Ali-00&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
 <h3 align="center">Aspiring AI, Python & Cybersecurity Learner</h3>
 
 ---
@@ -102,4 +98,8 @@
 
 <p align="center">
   <i>⭐️ From <a href="https://github.com/Faizan-Ali-00">Faizan-Ali-00</a> — Building projects and learning every day!</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Faizan-Ali-00&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
