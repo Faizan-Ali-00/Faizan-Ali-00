@@ -122,6 +122,30 @@ Turn words into light. A beautiful AI image generator with a 7-model fallback ch
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="140" align="center">
+  <img src="https://raw.githubusercontent.com/Faizan-Ali-00/Faizan-Ali-00/main/logos/numera.svg" width="110" />
+  <br/><br/>
+  <a href="https://math-problem-solver-ystpggwdus4aqmweskk9cu.streamlit.app/">
+    <img src="https://img.shields.io/badge/LIVE-10B981?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
+</td>
+<td>
+
+### 📐 Numera — Math Problem Solver
+
+Solve · Learn · Understand. Solves equations, explains step-by-step, and reads math from photos.
+
+**Providers:** Groq · Gemini · Cerebras · OpenRouter
+
+🔗 **Live:** [numera.streamlit.app](https://math-problem-solver-ystpggwdus4aqmweskk9cu.streamlit.app/)
+💻 **Code:** [Math-Problem-Solver](https://github.com/Faizan-Ali-00/Math-Problem-Solver)
+
+</td>
+</tr>
+</table>
+
 ## 💻 Tech Stack
 
 ### 🐍 Languages & Frameworks
@@ -159,6 +183,7 @@ Turn words into light. A beautiful AI image generator with a 7-model fallback ch
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=sympy&logoColor=white)
 
 ### 🌐 Web & App Development
 
@@ -195,10 +220,6 @@ Turn words into light. A beautiful AI image generator with a 7-model fallback ch
 ### 🩺 MedInsight — Medical Report Analyzer
 AI-powered medicine and lab report analyzer.
 🔗 [MedInsight-Intelligence-AI](https://github.com/Faizan-Ali-00/MedInsight-Intelligence-AI)
-
-### 🧮 Math Problem Solver
-An AI-powered math solver that reads problems from images.
-🔗 [Math-Problem-Solver](https://github.com/Faizan-Ali-00/Math-Problem-Solver)
 
 ### 🔢 MNIST CNN Digit Recognizer
 Handwritten digit recognition using CNN and Streamlit.
