@@ -2,6 +2,18 @@
 
 <h3 align="center">Aspiring AI, Python & Cybersecurity Learner</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/faizancybersecurity">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://tryhackme.com/p/feezanmirza167">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
+  </a>
+  <a href="mailto:faizancybersecurity@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 🌟 About Me
@@ -11,12 +23,6 @@
 - 🛡️ Interested in **Cybersecurity, AI Automation, and Python**
 - 🚀 Building **multi-provider AI apps** with fallback chains
 - 📍 Based in **Gujranwala, Pakistan**
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizancybersecurity)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/feezanmirza167)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizancybersecurity@gmail.com)
 
 ## 🚀 Live AI Apps
 
