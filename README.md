@@ -39,7 +39,7 @@
 
 ### ✨ Nexus AI — Multi-Provider Chatbot
 
-An intelligent chatbot with PDF analysis and multi-provider fallback.
+An intelligent chatbot with a multi-provider fallback system.
 
 **Providers:** Cerebras · Cloudflare Workers AI · OpenRouter
 
