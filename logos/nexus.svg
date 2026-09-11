@@ -1,0 +1,30 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="nucleusGrad" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#c9b8ff"/>
+      <stop offset="45%" stop-color="#8b5cf6"/>
+      <stop offset="80%" stop-color="#6d28d9"/>
+      <stop offset="100%" stop-color="#2b1256"/>
+    </radialGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="120" height="120" rx="24" fill="#0b0715"/>
+  <g transform="translate(60, 60)">
+    <ellipse cx="0" cy="0" rx="40" ry="16" fill="none" stroke="#8b5cf6" stroke-width="2" stroke-opacity="0.55" transform="rotate(45)"/>
+    <ellipse cx="0" cy="0" rx="40" ry="16" fill="none" stroke="#a78bff" stroke-width="2" stroke-opacity="0.55" transform="rotate(-45)"/>
+    <ellipse cx="0" cy="0" rx="40" ry="16" fill="none" stroke="#C77DFF" stroke-width="2" stroke-opacity="0.5"/>
+    <circle cx="28" cy="28" r="3" fill="#E0C3FF"/>
+    <circle cx="28" cy="-28" r="3" fill="#E0C3FF"/>
+    <circle cx="40" cy="0" r="3" fill="#E0C3FF"/>
+    <g filter="url(#glow)">
+      <circle cx="0" cy="0" r="16" fill="url(#nucleusGrad)"/>
+    </g>
+    <circle cx="0" cy="0" r="11" fill="none" stroke="#ffffff" stroke-opacity="0.2" stroke-width="1.2"/>
+  </g>
+</svg>
