@@ -28,8 +28,8 @@
 
 <table>
 <tr>
-<td width="80" align="center">
-  <img src="https://img.shields.io/badge/N-8B5CF6?style=for-the-badge&logoColor=white" height="60" />
+<td width="140" align="center">
+  <img src="logos/nexus.svg" width="110" />
   <br/><br/>
   <a href="https://my-ai-chatbot-eez9owenm5fuku3qzsguwk.streamlit.app/">
     <img src="https://img.shields.io/badge/LIVE-10B981?style=for-the-badge&logo=streamlit&logoColor=white" />
@@ -52,8 +52,8 @@ An intelligent chatbot with PDF analysis and multi-provider fallback.
 
 <table>
 <tr>
-<td width="80" align="center">
-  <img src="https://img.shields.io/badge/A-8A6BFF?style=for-the-badge&logoColor=white" height="60" />
+<td width="140" align="center">
+  <img src="logos/aria.svg" width="110" />
   <br/><br/>
   <a href="https://ai-voice-assistant-zq2xyue7yxjrbk3pmsdodo.streamlit.app/">
     <img src="https://img.shields.io/badge/LIVE-10B981?style=for-the-badge&logo=streamlit&logoColor=white" />
@@ -76,8 +76,8 @@ A beautiful voice assistant that listens, thinks, and responds.
 
 <table>
 <tr>
-<td width="80" align="center">
-  <img src="https://img.shields.io/badge/PS-06B6D4?style=for-the-badge&logoColor=white" height="60" />
+<td width="140" align="center">
+  <img src="logos/pixelsage.svg" width="110" />
   <br/><br/>
   <a href="https://ai-image-recognizer-kxrilqhhs9jgg79zcdmiu4.streamlit.app/">
     <img src="https://img.shields.io/badge/LIVE-10B981?style=for-the-badge&logo=streamlit&logoColor=white" />
