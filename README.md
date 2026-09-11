@@ -26,23 +26,77 @@
 
 ## 🚀 Live AI Apps
 
+<table>
+<tr>
+<td width="80" align="center">
+  <img src="https://img.shields.io/badge/N-8B5CF6?style=for-the-badge&logoColor=white" height="60" />
+  <br/><br/>
+  <a href="https://my-ai-chatbot-eez9owenm5fuku3qzsguwk.streamlit.app/">
+    <img src="https://img.shields.io/badge/LIVE-10B981?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
+</td>
+<td>
+
 ### ✨ Nexus AI — Multi-Provider Chatbot
+
 An intelligent chatbot with PDF analysis and multi-provider fallback.
+
 **Providers:** Cerebras · Cloudflare Workers AI · OpenRouter
+
 🔗 **Live:** [nexus-ai.streamlit.app](https://my-ai-chatbot-eez9owenm5fuku3qzsguwk.streamlit.app/)
 💻 **Code:** [my-ai-chatbot](https://github.com/Faizan-Ali-00/my-ai-chatbot)
 
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="80" align="center">
+  <img src="https://img.shields.io/badge/A-8A6BFF?style=for-the-badge&logoColor=white" height="60" />
+  <br/><br/>
+  <a href="https://ai-voice-assistant-zq2xyue7yxjrbk3pmsdodo.streamlit.app/">
+    <img src="https://img.shields.io/badge/LIVE-10B981?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
+</td>
+<td>
+
 ### 🎙️ Aria — Voice Assistant
+
 A beautiful voice assistant that listens, thinks, and responds.
+
 **Providers:** Groq Whisper · Gemini · OpenRouter
+
 🔗 **Live:** [aria.streamlit.app](https://ai-voice-assistant-zq2xyue7yxjrbk3pmsdodo.streamlit.app/)
 💻 **Code:** [ai-voice-assistant](https://github.com/Faizan-Ali-00/ai-voice-assistant)
 
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="80" align="center">
+  <img src="https://img.shields.io/badge/PS-06B6D4?style=for-the-badge&logoColor=white" height="60" />
+  <br/><br/>
+  <a href="https://ai-image-recognizer-kxrilqhhs9jgg79zcdmiu4.streamlit.app/">
+    <img src="https://img.shields.io/badge/LIVE-10B981?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
+</td>
+<td>
+
 ### 📸 PixelSage — Image Analyzer
+
 An AI image analyzer that describes every detail of your photo.
+
 **Providers:** Gemini Vision · Mistral Pixtral · DeepSeek · OpenRouter
+
 🔗 **Live:** [pixelsage.streamlit.app](https://ai-image-recognizer-kxrilqhhs9jgg79zcdmiu4.streamlit.app/)
 💻 **Code:** [AI-Image-Recognizer](https://github.com/Faizan-Ali-00/AI-Image-Recognizer)
+
+</td>
+</tr>
+</table>
 
 ## 💻 Tech Stack
 
