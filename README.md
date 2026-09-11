@@ -29,7 +29,7 @@
 <table>
 <tr>
 <td width="140" align="center">
-  <img src="logos/nexus.svg" width="110" />
+  <img src="https://raw.githubusercontent.com/Faizan-Ali-00/Faizan-Ali-00/main/logos/nexus.svg" width="110" />
   <br/><br/>
   <a href="https://my-ai-chatbot-eez9owenm5fuku3qzsguwk.streamlit.app/">
     <img src="https://img.shields.io/badge/LIVE-10B981?style=for-the-badge&logo=streamlit&logoColor=white" />
@@ -53,7 +53,7 @@ An intelligent chatbot with a multi-provider fallback system.
 <table>
 <tr>
 <td width="140" align="center">
-  <img src="logos/aria.svg" width="110" />
+  <img src="https://raw.githubusercontent.com/Faizan-Ali-00/Faizan-Ali-00/main/logos/aria.svg" width="110" />
   <br/><br/>
   <a href="https://ai-voice-assistant-zq2xyue7yxjrbk3pmsdodo.streamlit.app/">
     <img src="https://img.shields.io/badge/LIVE-10B981?style=for-the-badge&logo=streamlit&logoColor=white" />
@@ -77,7 +77,7 @@ A beautiful voice assistant that listens, thinks, and responds.
 <table>
 <tr>
 <td width="140" align="center">
-  <img src="logos/pixelsage.svg" width="110" />
+  <img src="https://raw.githubusercontent.com/Faizan-Ali-00/Faizan-Ali-00/main/logos/pixelsage.svg" width="110" />
   <br/><br/>
   <a href="https://ai-image-recognizer-kxrilqhhs9jgg79zcdmiu4.streamlit.app/">
     <img src="https://img.shields.io/badge/LIVE-10B981?style=for-the-badge&logo=streamlit&logoColor=white" />
@@ -98,6 +98,30 @@ An AI image analyzer that describes every detail of your photo.
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="140" align="center">
+  <img src="https://raw.githubusercontent.com/Faizan-Ali-00/Faizan-Ali-00/main/logos/lumina.svg" width="110" />
+  <br/><br/>
+  <a href="https://ai-image-generator-jcftnxtiq4gztbbgphh4fs.streamlit.app/">
+    <img src="https://img.shields.io/badge/LIVE-10B981?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
+</td>
+<td>
+
+### 💫 Lumina — AI Image Generator
+
+Turn words into light. A beautiful AI image generator with a 7-model fallback chain.
+
+**Providers:** Cloudflare FLUX · SDXL · Replicate · Together · fal.ai · Pollinations
+
+🔗 **Live:** [lumina.streamlit.app](https://ai-image-generator-jcftnxtiq4gztbbgphh4fs.streamlit.app/)
+💻 **Code:** [ai-image-generator](https://github.com/Faizan-Ali-00/ai-image-generator)
+
+</td>
+</tr>
+</table>
+
 ## 💻 Tech Stack
 
 ### 🐍 Languages & Frameworks
@@ -109,7 +133,7 @@ An AI image analyzer that describes every detail of your photo.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🤖 AI & LLM Providers
+### 🤖 AI Chat & LLM Providers
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
@@ -119,7 +143,14 @@ An AI image analyzer that describes every detail of your photo.
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logo=openrouter&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers_AI-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+### 🎨 AI Image Generation Providers
+
+![Cloudflare Workers AI](https://img.shields.io/badge/Cloudflare_Workers_AI-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Replicate](https://img.shields.io/badge/Replicate-000000?style=for-the-badge&logo=replicate&logoColor=white)
+![Together AI](https://img.shields.io/badge/Together_AI-0F6FFF?style=for-the-badge&logoColor=white)
+![fal.ai](https://img.shields.io/badge/fal.ai-8B5CF6?style=for-the-badge&logoColor=white)
+![Pollinations](https://img.shields.io/badge/Pollinations-000000?style=for-the-badge&logoColor=white)
 
 ### 🧠 AI & Machine Learning
 
@@ -168,10 +199,6 @@ AI-powered medicine and lab report analyzer.
 ### 🧮 Math Problem Solver
 An AI-powered math solver that reads problems from images.
 🔗 [Math-Problem-Solver](https://github.com/Faizan-Ali-00/Math-Problem-Solver)
-
-### 🎨 AI Image Generator
-Streamlit app that generates AI images from text prompts.
-🔗 [ai-image-generator](https://github.com/Faizan-Ali-00/ai-image-generator)
 
 ### 🔢 MNIST CNN Digit Recognizer
 Handwritten digit recognition using CNN and Streamlit.
