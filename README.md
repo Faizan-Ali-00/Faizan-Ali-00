@@ -9,8 +9,7 @@
   <a href="https://tryhackme.com/p/feezanmirza167">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
   </a>
-  <a href="https://www.fiverr.com/faizan_cys">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+ 
   </a>
   <a href="mailto:faizancybersecurity@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
